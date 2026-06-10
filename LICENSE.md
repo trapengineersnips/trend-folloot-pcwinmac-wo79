@@ -1,4 +1,4 @@
-# 
+# Turbo trend-following bot scripts pour Mac OS | Open Source trend-following bot scripts pour PC Windows. Avec arbitrage triangulaire et notifications d'alerte — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
